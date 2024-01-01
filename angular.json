@@ -41,6 +41,7 @@
           },
           "configurations": {
             "production": {
+                "baseHref": "/books-front/",
               "budgets": [
                 {
                   "type": "initial",
